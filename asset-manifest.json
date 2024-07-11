@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.16efe21a.css",
+    "main.js": "/static/js/main.6a922f95.js",
+    "static/css/64.170a3c3a.chunk.css": "/static/css/64.170a3c3a.chunk.css",
+    "static/js/64.56dc6704.chunk.js": "/static/js/64.56dc6704.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.bda0d7b7.chunk.js": "/static/js/769.bda0d7b7.chunk.js",
+    "static/media/ccxx.gif": "/static/media/ccxx.b7343e692e39fe64e3ae.gif",
+    "static/media/cxxx.svg": "/static/media/cxxx.0d91daa9f803095a8dd3df83852e8baa.svg",
+    "static/media/harvardLogo.png": "/static/media/harvardLogo.71177c50ab8711532996.png",
+    "static/media/skphoto.png": "/static/media/skphoto.06a174e104281835ce0b.png",
+    "static/media/UBapp.png": "/static/media/UBapp.ef1ae87b1ab877d723d1.png",
+    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/revese.jpg": "/static/media/revese.9d01d876c93f494852f5.jpg",
+    "static/media/uidex.png": "/static/media/uidex.33abf90b349238a706db.png",
+    "static/media/chserver.png": "/static/media/chserver.4dfea0eda766d55b1986.png",
+    "static/media/uiuxcet.jpeg": "/static/media/uiuxcet.f17c181b2ff0408a374c.jpeg",
+    "static/media/ntsucure.jpeg": "/static/media/ntsucure.a85fe55f71f810e02bc6.jpeg",
+    "static/media/glassMn.png": "/static/media/glassMn.b1aa95c0a41c5142257e.png",
+    "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/todoapp.png": "/static/media/todoapp.31ba9b551e382b746825.png",
+    "static/media/oracleBj.png": "/static/media/oracleBj.a5113303ebbdf84dbc92.png",
+    "static/media/cybebj.png": "/static/media/cybebj.b95e14c5f95033c2cac8.png",
+    "static/media/CCNAITN.png": "/static/media/CCNAITN.1b9eac74c7dc14a6ed97.png",
+    "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/skill.svg": "/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "static/media/resume.pdf": "/static/media/resume.f0f733dd3cd732b39262.pdf",
+    "index.html": "/index.html",
+    "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.16efe21a.css.map": "/static/css/main.16efe21a.css.map",
+    "main.6a922f95.js.map": "/static/js/main.6a922f95.js.map",
+    "64.170a3c3a.chunk.css.map": "/static/css/64.170a3c3a.chunk.css.map",
+    "64.56dc6704.chunk.js.map": "/static/js/64.56dc6704.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
+    "769.bda0d7b7.chunk.js.map": "/static/js/769.bda0d7b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16efe21a.css",
+    "static/js/main.6a922f95.js"
+  ]
+}
