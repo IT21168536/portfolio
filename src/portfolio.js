@@ -37,7 +37,7 @@ const socialMediaLinks = {
   linkedin: "https://www.linkedin.com/in/chathura-lakshan-50b838211/",
   gmail: "lakshankapuge@gmail.com",
   // gitlab: "https://gitlab.com/saadpasta",
-  facebook: "https://www.facebook.com/saad.pasta7",
+  facebook: "https://www.facebook.com/chathura.lakshan.14224094?mibextid=ZbWKwL",
   medium: "https://medium.com/@ChathuraLk",
   stackoverflow: "https://stackoverflow.com/users/21128529/cathu56",
   // Instagram, Twitter and Kaggle are also supported in the links!
