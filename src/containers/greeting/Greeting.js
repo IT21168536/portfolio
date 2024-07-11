@@ -2,13 +2,12 @@ import React, {useContext} from "react";
 import {Fade} from "react-reveal";
 import emoji from "react-easy-emoji";
 import "./Greeting.scss";
-import landingPerson from "../../assets/lottie/landingPerson";
-import DisplayLottie from "../../components/displayLottie/DisplayLottie";
+// import landingPerson from "../../assets/lottie/landingPerson";
+// import DisplayLottie from "../../components/displayLottie/DisplayLottie";
 import SocialMedia from "../../components/socialMedia/SocialMedia";
 import Button from "../../components/button/Button";
 import {illustration, greeting} from "../../portfolio";
 import StyleContext from "../../contexts/StyleContext";
-import greetingImage from "../../assets/images/cxxx.svg";
 
 
 
@@ -44,7 +43,7 @@ export default function Greeting() {
                 <Button text="Contact me" href="#contact" />
                 {greeting.resumeLink && (
                   <a
-                    href={require("./resume.pdf")}
+                    href={"https://drive.usercontent.google.com/download?id=1eejDavDArtdafa8m3v-wVgr27OykG-kh&export=download&authuser=0&confirm=t&uuid=db166982-a9e5-4a51-a698-09ea69fe2694&at=APZUnTWjK_uvU0EzatdEI1iLbpGJ:1720734981763"}
                     download="Resume.pdf"
                     className="download-link-button"
                   >

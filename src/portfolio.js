@@ -251,8 +251,8 @@ const openSource = {
 // Some big projects you have worked on
 
 const bigProjects = {
-  title: "Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  title: "Projects 🧑🏻‍💻💯",
+  subtitle: " ________________________________________",
   projects: [
     {
       image: require("./assets/images/UBapp.png"),
