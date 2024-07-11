@@ -40,7 +40,7 @@ const socialMediaLinks = {
   facebook: "https://www.facebook.com/chathura.lakshan.14224094?mibextid=ZbWKwL",
   medium: "https://medium.com/@ChathuraLk",
   stackoverflow: "https://stackoverflow.com/users/21128529/cathu56",
-  // Instagram, Twitter and Kaggle are also supported in the links!
+
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
 };
