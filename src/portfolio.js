@@ -310,8 +310,32 @@ const bigProjects = {
         }
       ]
     },
+    {
+      image: require("./assets/images/glassMn.png"),
+      projectName: "UI/UX in Glass Store Management System",
+      projectDesc: "Designed the UX/UI for a comprehensive Glass Store Management System Web App,  price calculating, order processing,Glass cutting and customer service for glass-related businessest",
+      footerLink: [
+        {
+          name: "Visit Figma",
+          url: "https://www.figma.com/proto/I9QNxoCf19kcWVm6riZtiO/SK-glass-managment-system?page-id=0%3A1&node-id=9-2807&scaling=scale-down&content-scaling=fixed&t=3VrT76um8coGWhAn-1"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/glassMn.png"),
+      projectName: "UI/UX in Glass Store Management System",
+      projectDesc: "Designed the UX/UI for a comprehensive Glass Store Management System Web App,  price calculating, order processing,Glass cutting and customer service for glass-related businessest",
+      footerLink: [
+        {
+          name: "Visit Figma",
+          url: "https://www.figma.com/proto/I9QNxoCf19kcWVm6riZtiO/SK-glass-managment-system?page-id=0%3A1&node-id=9-2807&scaling=scale-down&content-scaling=fixed&t=3VrT76um8coGWhAn-1"
+        }
+      ]
+    },
+    
 
   ],
+  
   display: true // Set false to hide this section, defaults to true
 };
 
