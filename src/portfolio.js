@@ -411,19 +411,19 @@ const achievementSection = {
         // }
       ]
     },
-    {
-      title: "Introduction to MongoDB",
-      subtitle: "Achieved certification in 'Introduction to MongoDB', enhancing skills in managing NoSQL databases and developing scalable applications. ",
-      image: require("./assets/images/mongoDb.jpg"),
-      imageAlt: "PWA Logo",
-      footerLink: [
-        {name: "View Certification", url: "https://learn.mongodb.com/c/_8au-XhhTBKI38x3vWLIhw"},
-        // {
-        //   name: "Final Project",
-        //   url: "https://pakistan-olx-1.firebaseapp.com/"
-        // }
-      ]
-    },
+    // {
+    //   title: "Introduction to MongoDB",
+    //   subtitle: "Achieved certification in 'Introduction to MongoDB', enhancing skills in managing NoSQL databases and developing scalable applications. ",
+    //   image: require("./assets/images/mongoDb.jpg"),
+    //   imageAlt: "PWA Logo",
+    //   footerLink: [
+    //     {name: "View Certification", url: "https://learn.mongodb.com/c/_8au-XhhTBKI38x3vWLIhw"},
+    //     // {
+    //     //   name: "Final Project",
+    //     //   url: "https://pakistan-olx-1.firebaseapp.com/"
+    //     // }
+    //   ]
+    // },
   ],
   display: true // Set false to hide this section, defaults to true
 };
