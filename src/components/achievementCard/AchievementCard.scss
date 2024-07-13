@@ -48,7 +48,16 @@
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 1rem 1rem;
+
 }
+/* Media Query for smaller screens */
+@media (max-width: 768px) {
+  .achievement-cards-div > .certificate-card:nth-child(n + 7) {
+    display:none;
+  }
+}
+
+
 .certificate-card-footer {
   display: flex;
   align-items: center;
