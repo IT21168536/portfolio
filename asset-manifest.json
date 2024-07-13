@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.5928d350.css",
-    "main.js": "/portfolio/static/js/main.fd263083.js",
+    "main.js": "/portfolio/static/js/main.c3d3fbc8.js",
     "static/css/64.170a3c3a.chunk.css": "/portfolio/static/css/64.170a3c3a.chunk.css",
     "static/js/64.56dc6704.chunk.js": "/portfolio/static/js/64.56dc6704.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/portfolio/static/css/769.b3cbb36b.chunk.css",
     "static/js/769.bda0d7b7.chunk.js": "/portfolio/static/js/769.bda0d7b7.chunk.js",
     "static/media/ccxx.gif": "/portfolio/static/media/ccxx.197871b0149e261c8bac.gif",
     "static/media/harvardLogo.png": "/portfolio/static/media/harvardLogo.71177c50ab8711532996.png",
+    "static/media/mongoDb.jpg": "/portfolio/static/media/mongoDb.792e212236726a9d1b94.jpg",
     "static/media/skphoto.png": "/portfolio/static/media/skphoto.06a174e104281835ce0b.png",
     "static/media/UBapp.png": "/portfolio/static/media/UBapp.ef1ae87b1ab877d723d1.png",
     "static/media/Montserrat-Regular.ttf": "/portfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
-    "static/media/revese.jpg": "/portfolio/static/media/revese.9d01d876c93f494852f5.jpg",
+    "static/media/revese.jpg": "/portfolio/static/media/revese.80d1151304af70d7221c.jpg",
     "static/media/uidex.png": "/portfolio/static/media/uidex.33abf90b349238a706db.png",
     "static/media/chserver.png": "/portfolio/static/media/chserver.4dfea0eda766d55b1986.png",
-    "static/media/uiuxcet.jpeg": "/portfolio/static/media/uiuxcet.f17c181b2ff0408a374c.jpeg",
+    "static/media/uiuxcet.jpeg": "/portfolio/static/media/uiuxcet.8940c15d568e24e31670.jpeg",
     "static/media/ntsucure.jpeg": "/portfolio/static/media/ntsucure.a85fe55f71f810e02bc6.jpeg",
     "static/media/glassMn.png": "/portfolio/static/media/glassMn.b1aa95c0a41c5142257e.png",
     "static/media/Agustina.woff": "/portfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
@@ -28,7 +29,7 @@
     "index.html": "/portfolio/index.html",
     "static/media/talksCardBack.svg": "/portfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.5928d350.css.map": "/portfolio/static/css/main.5928d350.css.map",
-    "main.fd263083.js.map": "/portfolio/static/js/main.fd263083.js.map",
+    "main.c3d3fbc8.js.map": "/portfolio/static/js/main.c3d3fbc8.js.map",
     "64.170a3c3a.chunk.css.map": "/portfolio/static/css/64.170a3c3a.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/portfolio/static/js/64.56dc6704.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/portfolio/static/css/769.b3cbb36b.chunk.css.map",
@@ -36,6 +37,6 @@
   },
   "entrypoints": [
     "static/css/main.5928d350.css",
-    "static/js/main.fd263083.js"
+    "static/js/main.c3d3fbc8.js"
   ]
 }
