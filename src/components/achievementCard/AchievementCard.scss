@@ -52,6 +52,9 @@
 }
 /* Media Query for smaller screens */
 @media (max-width: 768px) {
+  .achievement-cards-div {
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  }
   .achievement-cards-div > .certificate-card:nth-child(n + 7) {
     display:none;
   }
