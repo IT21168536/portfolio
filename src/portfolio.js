@@ -423,7 +423,6 @@ const achievementSection = {
         //   url: "https://pakistan-olx-1.firebaseapp.com/"
         // }
       ]
-      
     },
   ],
   display: true // Set false to hide this section, defaults to true
