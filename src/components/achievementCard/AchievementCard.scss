@@ -52,7 +52,7 @@
 }
 /* Media Query for smaller screens */
 @media (max-width: 768px) {
-  .achievement-cards-div > .certificate-card:nth-child(n + 7) {
+  .achievement-cards-div > .certificate-card:nth-child(n + 6) {
     display:none;
   }
 }
@@ -87,12 +87,12 @@ span.certificate-tag:hover {
 
 @media only screen and (max-width: 768px) { /* Adjust breakpoint as needed */
   .achievement-cards-div {
-    grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); /* Adjust size for smaller screens */
+    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr)); /* Adjust size for smaller screens */
   }
 }
 
 @media only screen and (max-width: 480px) { /* For phone screens */
   .achievement-cards-div {
-    grid-template-columns: repeat(1, 1fr); /* Shows 2 cards per row, adjust the number of rows based on content */
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); /* Shows 2 cards per row, adjust the number of rows based on content */
   }
 }
