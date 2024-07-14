@@ -57,6 +57,14 @@
   }
 }
 
+/* Media Query for smaller screens */
+@media (max-width: 480px) {
+  .achievement-cards-div > .certificate-card:nth-child(n + 5) {
+    display:none;
+  }
+}
+
+
 
 .certificate-card-footer {
   display: flex;
@@ -91,8 +99,3 @@ span.certificate-tag:hover {
 //   }
 // }
 
-// @media only screen and (max-width: 480px) { /* For phone screens */
-//   .achievement-cards-div {
-//     grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); /* Shows 2 cards per row, adjust the number of rows based on content */
-//   }
-// }
