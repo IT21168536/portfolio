@@ -85,14 +85,14 @@ span.certificate-tag:hover {
   background: $buttonHover;
 }
 
-@media only screen and (max-width: 768px) { /* Adjust breakpoint as needed */
-  .achievement-cards-div {
-    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr)); /* Adjust size for smaller screens */
-  }
-}
+// @media only screen and (max-width: 768px) { /* Adjust breakpoint as needed */
+//   .achievement-cards-div {
+//     grid-template-columns: repeat(auto-fill, minmax(100px, 1fr)); /* Adjust size for smaller screens */
+//   }
+// }
 
-@media only screen and (max-width: 480px) { /* For phone screens */
-  .achievement-cards-div {
-    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); /* Shows 2 cards per row, adjust the number of rows based on content */
-  }
-}
+// @media only screen and (max-width: 480px) { /* For phone screens */
+//   .achievement-cards-div {
+//     grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); /* Shows 2 cards per row, adjust the number of rows based on content */
+//   }
+// }
