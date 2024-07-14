@@ -36,12 +36,13 @@
 @media (max-width: 768px) {
   .main-button {
     font-size: 0.938rem;
-    padding: 12px 11px;
+    padding: 12px 10px;
     margin-right: 0px;
   }
 }
 @media (max-width: 320px) {
   .main-button {
-    font-size: 0.75rem;
+    padding: 12px 9px;
+    font-size: 0.7rem;
   }
 }

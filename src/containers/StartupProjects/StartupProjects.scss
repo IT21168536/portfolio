@@ -91,3 +91,9 @@
     display: none;
   }
 }
+/* Media Query for smaller screens */
+@media (max-width: 480px) {
+  .achievement-cards-div > .certificate-card:nth-child(n + 5) {
+    display:none;
+  }
+}
