@@ -1,5 +1,5 @@
 {
-  "homepage": "https://chathuralakshan.site/",
+  "homepage": "https://chathuralakshan.site",
   "name": "developerfolio",
   "version": "0.1.0",
   "private": true,
@@ -53,7 +53,7 @@
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "dotenv": "^8.2.0",
-    "gh-pages": "^6.1.1",
+    "gh-pages": "^6.3.0",
     "prettier": "^2.3.1"
   }
 }
